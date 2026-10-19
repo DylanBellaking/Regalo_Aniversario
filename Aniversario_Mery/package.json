@@ -1,0 +1,9 @@
+{
+  "name": "para-mery",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Página de aniversario para Mery Urrutia",
+  "scripts": {
+    "dev": "node preview.cjs"
+  }
+}
